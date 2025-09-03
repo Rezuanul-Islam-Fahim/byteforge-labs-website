@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Mail, Phone, MessageSquare, Send, MapPin, Clock } from 'lucide-react';
+import { Mail, MessageSquare, Send, Clock } from 'lucide-react';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -29,10 +29,10 @@ const Contact = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Let's Build Something Great Together
+            Let&apos;s Build Something Great Together
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to transform your ideas into reality? Get in touch and let's discuss your next project.
+            Ready to transform your ideas into reality? Get in touch and let&apos;s discuss your next project.
           </p>
         </div>
 
@@ -57,7 +57,7 @@ const Contact = () => {
                     <MessageSquare className="h-6 w-6 text-cyan-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Let's Chat</h4>
+                    <h4 className="font-semibold text-gray-900">Let&apos;s Chat</h4>
                     <p className="text-gray-600">Available for consultation</p>
                   </div>
                 </div>

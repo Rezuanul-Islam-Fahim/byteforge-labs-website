@@ -1,4 +1,4 @@
-import { Users, Target, Zap, Award } from 'lucide-react';
+import { Target, Zap, Award } from 'lucide-react';
 
 const About = () => {
   return (
@@ -9,7 +9,7 @@ const About = () => {
             About ByteForge Labs
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            We're passionate software engineers dedicated to building performant, scalable, and maintainable applications 
+            We&apos;re passionate software engineers dedicated to building performant, scalable, and maintainable applications 
             that transform businesses and enhance user experiences.
           </p>
         </div>
@@ -47,7 +47,7 @@ const About = () => {
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Quality Assurance</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  We're detail-obsessed and committed to delivering pixel-perfect, production-ready applications that exceed expectations.
+                  We&apos;re detail-obsessed and committed to delivering pixel-perfect, production-ready applications that exceed expectations.
                 </p>
               </div>
             </div>

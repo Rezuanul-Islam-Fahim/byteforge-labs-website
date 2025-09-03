@@ -84,7 +84,7 @@ const AIServices = () => {
             <h3 className="text-2xl font-bold text-white mb-4">AI-Powered Business Transformation</h3>
             <p className="text-gray-300 text-lg max-w-4xl mx-auto leading-relaxed">
               From intelligent chatbots that handle customer inquiries to sophisticated automation workflows that streamline operations, 
-              we create AI solutions that don't just follow trends—they set them. Our expertise in n8n automation, 
+              we create AI solutions that don&apos;t just follow trends—they set them. Our expertise in n8n automation, 
               custom AI agents, and MCP server development ensures your business stays ahead of the competition.
             </p>
           </div>

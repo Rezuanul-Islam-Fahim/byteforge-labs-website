@@ -1,4 +1,4 @@
-import { Code, Smartphone, Cloud, Palette, Globe } from 'lucide-react';
+import { Code, Smartphone, Cloud, Globe } from 'lucide-react';
 
 const TechStack = () => {
   const categories = [
