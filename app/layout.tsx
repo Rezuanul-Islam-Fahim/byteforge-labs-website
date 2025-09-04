@@ -7,6 +7,11 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'ByteForge Labs - Professional Software Development & AI Solutions',
   description: 'ByteForge Labs - Professional software development company specializing in full-stack development, mobile apps, and AI solutions. 10+ years of experience delivering scalable applications.',
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon-16x16.png",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export const viewport: Viewport = {
